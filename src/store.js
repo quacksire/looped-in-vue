@@ -1,7 +1,7 @@
 import { reactive } from 'vue'
 
 export const app = reactive({
-  tate: 'home',
+  state: 'home',
     classes: [],
     homework: [],
     back: () => {
